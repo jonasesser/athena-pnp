@@ -2,7 +2,7 @@
 
 Welcome to the Athena Patterns and Practices repository. This project aims to provide a set of best practices and patterns for developing applications with the Athena platform.
 
-Remark: All the code in this repository are just examples and emerged from my experiences. I make no claim to completeness. I am not responsible for any damage caused by the use of this code. Use at your own risk. 
+Please note that the best practices described in this document are intended to be general guidelines, and may not necessarily be suitable for all situations. They only reflect my personal experiences. Different people may have different perspectives and approaches to these matters, and it is important to consider these differences when making decisions. I make no claim to completeness. I am not responsible for any damage caused by the use of this code or guidelines. Use at your own risk. 
 
 ## Getting Started
 
