@@ -9,7 +9,7 @@ Please note that the best practices described in this document are intended to b
 (In progress - please share your feedback and best practices)
 
 1. [Adding Plugins](./docs/plugins.md)
-2. [Vue3] (./docs/vue3.md)
+2. [Vue3](./docs/vue3.md)
 
 ## Contributing
 We welcome contributions to the Athena Patterns and Practices project. To contribute, follow these steps:
