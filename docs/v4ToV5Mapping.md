@@ -12,5 +12,6 @@
 | ```player.data```  | ```const playerData = Athena.document.character.get(player);```    | Server |
 | ```isAnyMenuOpen()```  | ```AthenaClient.webview.isAnyMenuOpen()```    | Client |
 | ```WebViewController.ready```  | ```AthenaClient.webview.ready```    | Client |
+| ```IVehicle```  | ```OwnedVehicle```    | Shared |
 
 
