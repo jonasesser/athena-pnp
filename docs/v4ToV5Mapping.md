@@ -15,5 +15,16 @@
 | ```IVehicle```  | ```OwnedVehicle```    | Shared |
 | ```import { ATHENA_EVENTS_VEHICLE } from '@AthenaShared/enums/athenaEvents';```  | ```Remov import and use new autocomplete function Athena.vehicle.events.on("vehicle-spawned",...```    | Shared |
 
+4. Details
+
+#Changes
+https://athenaframework.com/blog/posts/2023-27-3
+#Examples
+https://athenaframework.com/tutorials/free/top/examples
+#Plugins
+https://athenaframework.com/tutorials/free/making-plugins/creating-plugins
+#Overrides
+https://athenaframework.com/blog/posts/2023-11-3
+
 
 
