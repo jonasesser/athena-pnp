@@ -17,13 +17,17 @@
 
 4. Details
 
-#Changes
+## Changes
+
 https://athenaframework.com/blog/posts/2023-27-3
-#Examples
+## Examples
+
 https://athenaframework.com/tutorials/free/top/examples
-#Plugins
+## Plugins
+
 https://athenaframework.com/tutorials/free/making-plugins/creating-plugins
-#Overrides
+## Overrides
+
 https://athenaframework.com/blog/posts/2023-11-3
 
 
