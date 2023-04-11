@@ -10,7 +10,7 @@ Please note that the best practices described in this document are intended to b
 
 1. [Adding Plugins](./docs/plugins.md)
 2. [Vue3](./docs/vue3.md)
-
+3. [V4 to V5 Mapping](./docs/v4ToV5Mapping.md)
 ## Contributing
 We welcome contributions to the Athena Patterns and Practices project. To contribute, follow these steps:
 
