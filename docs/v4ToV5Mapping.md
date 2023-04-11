@@ -13,5 +13,7 @@
 | ```isAnyMenuOpen()```  | ```AthenaClient.webview.isAnyMenuOpen()```    | Client |
 | ```WebViewController.ready```  | ```AthenaClient.webview.ready```    | Client |
 | ```IVehicle```  | ```OwnedVehicle```    | Shared |
+| ```import { ATHENA_EVENTS_VEHICLE } from '@AthenaShared/enums/athenaEvents';```  | ```Remov import and use new autocomplete function Athena.vehicle.events.on("vehicle-spawned",...```    | Shared |
+
 
 
