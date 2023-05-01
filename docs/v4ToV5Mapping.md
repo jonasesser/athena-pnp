@@ -32,6 +32,7 @@
 | ```Athena.state.set(player, 'toolbar', player.data.toolbar);```  | ```Remove and use...```    | Server |
 | ```player.data.toolbar[index].quantity -= 1;```  | ```await Athena.player.toolbar.sub(player, { dbName: item.dbName, quantity: 1, data: item.data })```    | Server |
 | ``` Athena.player.sync.inventory```  | ```Remove not needed anymore!?```    | Server |
+| ``` behavior: ITEM_TYPE.CAN_DROP | ITEM_TYPE.CAN_TRADE | ITEM_TYPE.IS_TOOLBAR | ITEM_TYPE.CONSUMABLE | ITEM_TYPE.SKIP_CONSUMABLE,```  | ```behavior: { canDrop: true, canTrade: true, destroyOnDrop: false, isToolbar: true, consumable: true },```    | Shared |
 
 
 4. Details
